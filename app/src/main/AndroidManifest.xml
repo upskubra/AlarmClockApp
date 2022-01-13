@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AlarmClockApp">
         <activity
-            android:name=".SetAlarmActivity"
+            android:name=".view.SetAlarmActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".view.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
