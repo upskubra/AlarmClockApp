@@ -5,4 +5,6 @@
     <string name="alarm_clock">Alarm Clock</string>
     <string name="alarm_name">Alarm Name</string>
     <string name="set_alarm">Set Alarm</string>
+    <string name="test_hour_text">15 :</string>
+    <string name="test_minute_text">20</string>
 </resources>
