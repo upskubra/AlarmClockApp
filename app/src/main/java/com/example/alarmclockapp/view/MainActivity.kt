@@ -20,13 +20,13 @@ class MainActivity : AppCompatActivity() {
 
         // example variable
         val alarm : Alarm
-        alarm = Alarm(15, 20, 12, "dsakfaksfh", false)
+        alarm = Alarm(15, 20,  "dsakfaksfh", false)
         val alarm1 : Alarm
-        alarm1 = Alarm(15, 20, 12, "dsakfaksfh", false)
+        alarm1 = Alarm(15, 20, "dsakfaksfh", false)
         val alarm2 : Alarm
-        alarm2 = Alarm(15, 20, 12, "dsakfaksfh", false)
+        alarm2 = Alarm(15, 20, "dsakfaksfh", false)
 
-        var alarmArrayList : ArrayList<Alarm> = ArrayList()
+        val alarmArrayList : ArrayList<Alarm> = ArrayList()
         alarmArrayList.add(alarm)
         alarmArrayList.add(alarm1)
         alarmArrayList.add(alarm2)
